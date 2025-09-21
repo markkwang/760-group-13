@@ -1,7 +1,7 @@
 # Beyond Backpropagation: Hybrid Forward-Forward + Barlow Twins
 
 This repository contains our implementation of a **forward-only training algorithm** that combines **Forward-Forward (FF)** learning with a **Barlow Twins (BT)** regularizer.  
-It is part of our research project *“Beyond Backpropagation”* (Group XX).
+It is part of our research project *“Beyond Backpropagation”* (Group 13).
 
 ---
 
